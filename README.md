@@ -14,3 +14,6 @@
     (2) Data Visulization: distribution of student counts plotted in static and interactive graphs
     (3) Geographic Illustration of Distribution of K-12 Enrollees by Ethnic Groups 
     (4) Build a web-based Dashboard with Dash
+
+The following link render the interactive barplot of student counts from 1999 to 2018 generated using Plotly:
+https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
