@@ -9,7 +9,7 @@
          https://tea.texas.gov/texas-schools/accountability/academic-accountability/performance-reporting
      (3) Spatial data: http://schoolsdata2-tea-texas.opendata.arcgis.com/
 
-## CONTENT:
+## PROCEDURES:
     (1) Data Preparation: data exploration, merging, wrangling, aggregation
     (2) Data Visulization: distribution of student counts plotted in static and interactive graphs
     (3) Geographic Illustration of Distribution of K-12 Enrollees by Ethnic Groups 
