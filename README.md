@@ -16,8 +16,8 @@ https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
 ## PROCEDURES:
     (1) Data Preparation: data exploration, merging, wrangling, aggregation
     (2) Data Visulization: distribution of student counts plotted in static and interactive graphs
-    (3) Geographic Illustration of Distribution of K-12 Enrollees by Ethnic Groups 
-    (4) Build a web-based Dashboard with Dash
+    (3) Geographic Illustration of Distribution of K-12 Enrollees Across Texas School Districts in Three Ethnic Groups 
+    (4) Build a web-based Dashboard with Dash and Plotly
 
 The interactive barplot of student counts from 1999 to 2018 generated using Plotly:
 https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
