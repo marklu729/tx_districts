@@ -2,6 +2,10 @@
 
 ## OBJECTIVE: this project will present the number and percentage of K-12 student enrollment in three ethnicity groups in the past 20 years from 1999 through 2018 school year in Texas, and build a web-based dashboard application using Dash to illustrate the interactive Choropleth Map.
 
+Dashborad demo:
+https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
+
+
 ## DATA: All the data sets used in this project are public data that can be downloaded from TEA website:
      (1) AEIS: Academic Excellence Indicator System (campus level and district level)
          https://rptsvr1.tea.texas.gov/perfreport/aeis/index.html
@@ -15,5 +19,5 @@
     (3) Geographic Illustration of Distribution of K-12 Enrollees by Ethnic Groups 
     (4) Build a web-based Dashboard with Dash
 
-The following link render the interactive barplot of student counts from 1999 to 2018 generated using Plotly:
+The interactive barplot of student counts from 1999 to 2018 generated using Plotly:
 https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
