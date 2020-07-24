@@ -1,4 +1,4 @@
-## TITLE: Distribution of K-12 Texas Student Enrollment in Three Ethnic Groups(African American, Hispanic, White) From 1999 Through 2018 
+## TITLE: Distribution of K-12 Texas Student Enrollment in Three Ethnic Groups (African American, Hispanic, White) From 1999 Through 2018 
 
 ## OBJECTIVE: this project will present the number and percentage of K-12 student enrollment in three ethnicity groups in the past 20 years from 1999 through 2018 school year in Texas, and build a web-based dashboard application using Dash to illustrate the interactive Choropleth Map.
 
