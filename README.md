@@ -22,5 +22,4 @@ https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
 The interactive barplot of student counts from 1999 to 2018 generated using Plotly:
 https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
 
-## DISCLAIMER:
-     This disclaimer informs readers that the views, graphs, opinions, codes belongs solely to the author, and not necessarily to the author's employer, organization or other      groups or individuals, and in no way driven by any other hidden agenda.
+## DISCLAIMER:This disclaimer informs readers that the views, graphs, opinions, codes belongs solely to the author, and not necessarily to the author's employer, organization or other groups or individuals, and in no way driven by any other hidden agenda.
