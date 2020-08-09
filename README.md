@@ -25,8 +25,6 @@ https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
     (2) Data Visulization: distribution of student counts plotted in static and interactive graphs
         (a) Seaborn: statically illustrate the distribution of the enrollees by ethnicity groups from 1999 through 2018
         (b) Plotly: interactively illustrate the distribution of the enrollees by ethnicity groups
-            The interactive barplot of student counts from 1999 to 2018 generated using Plotly:
-   https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
    
     (3) Geographically Illustration of Distribution of K-12 Enrollees Across Texas School Districts in Three Ethnic Groups 
         (a) GeoPandas: process the saptial data to merge with the dataframe
@@ -39,7 +37,8 @@ https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
             App layout: declare dash components (a Slider, a Dropdown, a RadioItems)   
         (c) Callback Part:
             Connect the plotly graphs with dash components          
-            Dashborad demo:
-   https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
 
+The interactive barplot of student counts from 1999 to 2018 generated using Plotly:
+https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
+   
 ## DISCLAIMER:This disclaimer informs readers that the views, graphs, opinions, codes belongs solely to the author, and not necessarily to the author's employer, organization or other groups or individuals, and in no way driven by any other hidden agenda.
