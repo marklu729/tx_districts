@@ -15,9 +15,28 @@ https://github.com/marklu729/tx_k12_enrollees/blob/master/Dash_Demo.gif
 
 ## PROCEDURES:
     (1) Data Preparation: data exploration, merging, wrangling, aggregation
+        (a) Process district level data to obtain district related information
+        (b) Process campus level data to obtain student enrollment information by ethnicity, and do dimentionality reduction to keep the interested features only
+        (c) Merge the processed year-based data to generate the aggreaged data including the student enrollment information from 1999 through 2018
+        (d) Explore the data by using decriptive statistcs
+        (e) Apply feature engineering to the data set 
+            e.g. campus_ID/1000 to get district_ID, use groupby to calculate the # of enrollees per year & district in each ethnic group etc.
+            
     (2) Data Visulization: distribution of student counts plotted in static and interactive graphs
-    (3) Geographic Illustration of Distribution of K-12 Enrollees Across Texas School Districts in Three Ethnic Groups 
+        (a) Seaborn: statically illustrate the distribution of the enrollees by ethnicity groups from 1999 through 2018
+        (b) Plotly: interactively illustrate the distribution of the enrollees by ethnicity groups
+
+    (3) Geographically Illustration of Distribution of K-12 Enrollees Across Texas School Districts in Three Ethnic Groups 
+        (a) GeoPandas: process the saptial data to merge with the dataframe
+        (b) Geoplot & mapclassify: geographically plot the choropleth maps in different classifiers defined with mapclassfiy.quantiles   
+        
     (4) Build a web-based Dashboard with Dash and Plotly
+        (a) Plotly Graph Part:
+            Data preparation: import pre-pocessed dataframe, load and process GeoJSON file
+        (b) Dash Component Part:
+            App layout: declare dash components (a Slider, a Dropdown, a RadioItems)   
+        (c) Callback Part:
+            Connect the plotly graphs with dash components          
 
 The interactive barplot of student counts from 1999 to 2018 generated using Plotly:
 https://htmlpreview.github.io/?https://github.com/marklu729/tx_districts/blob/master/barplot_student_counts_from_1999_2018_by_three_ethnic_group.html
